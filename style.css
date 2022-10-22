@@ -104,3 +104,11 @@ button > h3{
     color: white;
 }
 }
+
+.attribution{
+    position: absolute;
+    bottom: 0%;
+    right: 50%;
+    transform: translate(50%);
+    
+}
